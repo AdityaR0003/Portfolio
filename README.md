@@ -1,4 +1,4 @@
-# Vedant Pawar Portfolio
+# Aditya Rathod Portfolio
 
 Personal portfolio website built with Next.js to showcase Vedant Pawar's profile, skills, projects, certifications, internship experience, and contact information.
 
